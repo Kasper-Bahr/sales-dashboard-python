@@ -30,3 +30,17 @@ pip install pandas matplotlib streamlit
 Run dashboard:
 
 streamlit run dashboard.py
+
+## Dashboard Preview
+
+### Key Metrics
+![KPI](kpi_metrics.png)
+
+### Sales by Country
+![Country](sales_by_country.png)
+
+### Sales by Product Category
+![Product Category](sales_by_product_category.png)
+
+### Sales Over Time
+![Sales Over Time](sales_over_time.png)
